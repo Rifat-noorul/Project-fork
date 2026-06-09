@@ -1,0 +1,1 @@
+Fixed Minor bugs in the project
