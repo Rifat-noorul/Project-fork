@@ -1,1 +1,2 @@
-Fixed Minor bugs in the project
+new-branch
+Fixed minor bugs
